@@ -14,7 +14,7 @@ pip install flet openai googletrans playsound gtts SpeechRecognition python-dote
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/ChatGPT-Language-Tutor.git
+git clone https://github.com/Sander-OS/ChatGPT-Language-Tutor.git
 cd ChatGPT-Language-Tutor
 ```
 
