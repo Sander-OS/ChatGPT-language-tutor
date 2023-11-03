@@ -1,6 +1,6 @@
 # ChatGPT Language Tutor
 
-Welcome to ChatGPT Language Tutor! This application leverages OpenAI's GPT-3.5-turbo model to create an interactive language learning experience. Practice Italian with ChatGPT in a playful and engaging way, following specific language learning rules.
+Welcome to ChatGPT Language Tutor! This application leverages OpenAI's GPT-3.5-turbo model to create an interactive language learning experience. Practice any supported language with ChatGPT in a playful and engaging way using naturally spoken language, following specific language learning rules.
 
 ## Requirements
 Ensure you have the following Python libraries installed:
