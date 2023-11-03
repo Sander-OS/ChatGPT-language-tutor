@@ -1,0 +1,9 @@
+flet==0.10.3
+googletrans==4.0.0-rc1
+gTTS
+openai==0.27.8
+playsound==1.2.2
+PyAudio==0.2.13
+pygame==2.5.2
+SpeechRecognition==3.10.0
+python-dotenv
