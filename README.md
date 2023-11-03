@@ -2,7 +2,7 @@
 
 Welcome to ChatGPT Language Tutor! This application leverages OpenAI's GPT-3.5-turbo model to create an interactive language learning experience. Practice any supported language with ChatGPT in a playful and engaging way using naturally spoken language, following specific language learning rules.
 
-![ChatGPT Interface](https://raw.githubusercontent.com/Sander-OS/ChatGPT-language-tutor/main/ChatGPT-language-tutor.png=x250)
+![ChatGPT Interface](https://raw.githubusercontent.com/Sander-OS/ChatGPT-language-tutor/main/ChatGPT-language-tutor.png =x250)
 
 ## Requirements
 Ensure you have the following Python libraries installed:
