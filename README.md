@@ -4,6 +4,12 @@ Welcome to ChatGPT Language Tutor! This application leverages OpenAI's GPT-3.5-t
 
 ![ChatGPT Interface](https://raw.githubusercontent.com/Sander-OS/ChatGPT-language-tutor/main/ChatGPT-language-tutor.png)
 
+## TODO Improvements
+- Improve language detection speed
+- Add support for multiple languages whithin single spoken sentence
+- Improve general execution time
+- Improve microphone auto-record switching
+
 ## Requirements
 Ensure you have the following Python libraries installed:
 
